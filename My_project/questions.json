@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is  the name of your python tutors?",
+        "options": ["Ayobami and Jafar", "Yemi and Tunde", "Bola and Tunde", "Yemi and Bola"],
+        "answer": 0
+    },
+    {
+        "question": "What is a correct syntax to output 'Hello World' in Python?",
+        "options": ["echo('Hello World')", "p('Hello World')", "echo'Hello World'", "print('Hello World')"],
+        "answer": 3
+    },
+    {
+        "question": "How do you insert COMMENTS in Python code?",
+        "options": ["/*This is a comment*/", "//This is a comment", "#This is a comment", "##This is a comment"],
+        "answer": 2
+    },
+    {
+        "question": "What is the correct file extension for Python files?",
+        "options": [".py", ".pyth", ".pyt", ".pt"],
+        "answer": 0
+    }
+]
